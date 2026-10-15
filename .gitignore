@@ -1,0 +1,8 @@
+/build/
+/build-ninja/
+/build-make/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
