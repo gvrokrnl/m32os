@@ -2,6 +2,7 @@
 #define RING_BUFFER_H
 
 #include <stdint.h>
+#include <stddef.h>
 #include <stdbool.h>
 #define RING_CAPACITY 32
 
